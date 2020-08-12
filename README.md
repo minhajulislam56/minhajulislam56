@@ -1,10 +1,5 @@
 ### Hi there, I am Minhaj 👋
 
-<!--
-**minhajulislam56/minhajulislam56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Python, Django, REST API, PostgreSQL, AWS, Celery
 - 🌱 I’m currently learning ... React JS
 - 👯 I’m looking to collaborate on ... React JS
