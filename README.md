@@ -9,7 +9,7 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Bathroom Singer
 
-
+<br/>
 
 ### Languages and Tools:
 
