@@ -1,13 +1,15 @@
-### Hi there, I am Minhaj 👋
+### Hi there, I am [Minhaj](http://minhaj.pythonanywhere.com/) 👋
 
-- 🔭 I’m currently working on ... Python, Maching Learing, Django, REST API, PostgreSQL, AWS, Redis, Celery
-- 🌱 I’m currently learning ... React JS
-- 👯 I’m looking to collaborate on ... React JS
-- 🤔 I’m looking for help with ... React JS
-- 💬 Ask me about ... Full Stack Development
-- 📫 How to reach me: ... [Website](http://minhaj.pythonanywhere.com/) or [Facebook](https://www.facebook.com/minhajul.islam.056)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Bathroom Singer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajulislam56&label=Views&color=blue&style=plastic" alt="minhajulislam56" /> </p>
+
+- 🔭 I’m currently working on [Python](https://www.python.org/), Maching Learing, Django, REST API, PostgreSQL, AWS, Redis, Celery
+- 🌱 I’m currently learning [React JS](https://reactjs.org/)
+- 👯 I’m looking to collaborate on [React JS](https://reactjs.org/)
+- 🤔 I’m looking for help with [React JS](https://reactjs.org/)
+- 💬 Ask me about Full Stack Development
+- 📫 How to reach me: [Website](http://minhaj.pythonanywhere.com/) or [Facebook](https://www.facebook.com/minhajul.islam.056)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love to sleep!
 
 <br/>
 
@@ -34,4 +36,4 @@
 
 ---
 
-<img align="left" alt="Minhaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=minhajulislam56&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="left" alt="Minhaj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhajulislam56&show_icons=true&hide_border=true" />
