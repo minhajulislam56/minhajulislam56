@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajulislam56&label=Views&color=blue&style=plastic" alt="minhajulislam56" /> </p>
 
-- 🔭 I’m currently working on [Python](https://www.python.org/), Maching Learning, [Django](https://www.djangoproject.com/), [REST API](https://www.django-rest-framework.org/), PostgreSQL, AWS, Redis, Celery
+- 🔭 I’m currently working on [Python](https://www.python.org/), Maching Learning, [Django](https://www.djangoproject.com/), [REST framework](https://www.django-rest-framework.org/), [PostgreSQL](https://www.postgresql.org/), [AWS](https://aws.amazon.com/), [Redis](https://redis.io/)
 - 🌱 I’m currently learning [React JS](https://reactjs.org/)
 - 👯 I’m looking to collaborate on [React JS](https://reactjs.org/)
 - 🤔 I’m looking for help with [React JS](https://reactjs.org/)
