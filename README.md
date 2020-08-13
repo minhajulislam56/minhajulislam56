@@ -33,7 +33,7 @@
 
 ---
 <img align="left" alt="Minhaj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhajulislam56&show_icons=true&hide_border=true" />
-
+<br/>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
