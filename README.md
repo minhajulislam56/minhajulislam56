@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [Angular JS](https://angularjs.org/), [React JS](https://reactjs.org/)
 - 🤔 I’m looking for help with [Angular JS](https://angularjs.org/), [React JS](https://reactjs.org/)
 - 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me: <a href = "mailto: abc@example.com">email</a>
+- 📫 How to reach me: <a href = "mailto: minhajisartistic@gmail.com">email</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to cook and eat.
 
