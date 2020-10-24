@@ -1,4 +1,4 @@
-## Hi there, I am [Minhaj](http://minhaj.pythonanywhere.com/) 👋
+## Hi there, I'm [Minhaj](http://minhaj.pythonanywhere.com/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajulislam56&label=Views&color=blue&style=plastic" alt="minhajulislam56" /> </p>
 
